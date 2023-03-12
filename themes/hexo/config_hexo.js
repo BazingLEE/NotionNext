@@ -2,7 +2,7 @@ const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
   HOME_BANNER_GREETINGS: ['Angi是继Vamei之后最接近赤道的台风', '按照气象规律，台风不常出现在赤道', '所以，Angi是离群的风，无所顾忌地生长，不着边际地游荡'], // 首页大图标语文字
 
-  HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
+  HOME_NAV_BUTTONS: false, // 首页是否显示分类大图标按钮
 
   // 菜单配置
   MENU_CATEGORY: true, // 显示分类
